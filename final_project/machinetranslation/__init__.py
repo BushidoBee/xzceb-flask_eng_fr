@@ -1,1 +1,1 @@
-from machinetranslation.translator import englishToFrench, frenchtoEnglish
+from . import translator
