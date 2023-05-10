@@ -1,4 +1,5 @@
 #Converting English to French Text, and French to English Text
+import json
 import os
 from ibm_watson import LanguageTranslatorV3
 from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
